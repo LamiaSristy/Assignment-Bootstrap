@@ -1,0 +1,16 @@
+.row div {
+    border: 1px solid;
+    padding : 20px 1px;
+}
+
+.class1 {
+    background-color: skyblue;
+}
+
+.class2 {
+    background-color: pink;
+}
+
+.class3 {
+    background-color: yellow;
+}
